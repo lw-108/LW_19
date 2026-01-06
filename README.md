@@ -1,21 +1,21 @@
 <div align="center">
-  <a href="https://github.com/karthikmudunuri/eldoraui">
+  <a href="https://github.com/lw-108/lw-108">
 
 
  <img src="https://github.com/user-attachments/assets/d00f15e8-cc1a-47a6-b99f-885156a55fc3" alt="Logo" width="60" height="60">
   </a>
-  <h1 align="center">Eldora UI</h1>
+  <h1 align="center">lw-108 UI</h1>
   <p align="center">
    open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
 100% open-source, and customizable.
   </p>
   <p>
     
-   <a href="https://www.eldoraui.site/">Visit site</a>
+   <a href="https://www.lw-108.site/">Visit site</a>
     ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Report Bug</a>
+    <a href="https://github.com/lw-108/lw-108/issues">Report Bug</a>
     ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Request Feature</a>
+    <a href="https://github.com/lw-108/lw-108/issues">Request Feature</a>
   </p>
 </div>
 
@@ -34,7 +34,7 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
 
 # Features
 
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Eldora UI
+- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, lw-108 UI
 - Responsive for different devices
 - Optimized for Next.js and Vercel
 
@@ -43,7 +43,7 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/karthikmudunuri/portfolio-template
+   git clone https://github.com/lw-108/portfolio-template
    ```
 
 2. Move to the cloned directory
@@ -64,8 +64,8 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
    npm run dev
    ```
 
-5. Open the [Sections](https://github.com/karthikmudunuri/portfolio-template/tree/main/app/sections) folder and make changes
+5. Open the [Sections](https://github.com/lw-108/portfolio-template/tree/main/app/sections) folder and make changes
 
 # License
 
-Licensed under the [MIT license](https://github.com/karthikmudunuri/portfolio-template/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/lw-108/portfolio-template/blob/main/LICENSE.md).

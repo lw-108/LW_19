@@ -42,7 +42,7 @@ const ProjectCard = ({
                     alt={name}
                     width={500}
                     height={500}
-                    className={`absolute -bottom-2 w-[70%] sm:w-[85%] md:w-[60%] lg:max-w-[55%] ${
+                    className={`absolute -bottom-2 rounded-3xl rounded-b-none w-[70%] sm:w-[85%] md:w-[60%] lg:max-w-[55%] ${
                         id % 2 === 0 ? "right-0" : "left-0"
                     }`}
                     priority={true}
@@ -104,7 +104,7 @@ const ProjectCard = ({
                             "mt-4 w-[90%] max-w-[457px] text-[16px] font-semibold text-[#95979D] "
                         }
                     />
-                    <div className="mt-9 mb-9 grid grid-cols-5 gap-5 col-start-1 col-end-2">
+                    <div className="grid grid-cols-5 col-start-1 col-end-2 gap-5 mt-9 mb-9">
                         {technologies.map((IconComponent, id) => (
                             <div key={id} className={"relative"}>
                                 <Link

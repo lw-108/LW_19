@@ -98,8 +98,8 @@ const PreLoader: React.FC = () => {
                 <span>Web Developer</span>
                 <span> / </span>
                
-                <span className="flex items-center justify-center gap-3"> Building  <Logo width={30} height={30} /> Eldora UI</span>
-                <div className="sub hidden"></div>
+                <span className="flex items-center justify-center gap-3"> A <Logo width={30} height={30} /> Ben 10 fan</span>
+                <div className="hidden sub"></div>
             </div>
         </div>
     );
