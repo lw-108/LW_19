@@ -2,7 +2,7 @@
   <a href="https://github.com/lw-108/">
 
 
- <img src="[https://github.com/user-attachments/assets/d00f15e8-cc1a-47a6-b99f-885156a55fc3](https://github.com/lw-108/LW_19/blob/main/public/omnitrix.svg)" alt="Logo" width="60" height="60">
+ <img src="[https://i.ibb.co/BVby8LSY/image-1.png]" alt="Logo" width="60" height="60">
   </a>
   <h1 align="center">LW_19</h1>
   <p align="center">
