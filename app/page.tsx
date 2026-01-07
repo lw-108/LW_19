@@ -61,7 +61,7 @@ export default function Home() {
             <Color />
             <NavBar />
             <main
-                className="flex flex-col items-center justify-center bg-black"
+                className="flex flex-col items-center justify-center "
             >
                 <Hero />
                 <About />
