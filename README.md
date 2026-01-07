@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://github.com/lw-108/lw-108">
+  <a href="https://github.com/lw-108/">
 
 
- <img src="https://github.com/user-attachments/assets/d00f15e8-cc1a-47a6-b99f-885156a55fc3" alt="Logo" width="60" height="60">
+ <img src="[https://github.com/user-attachments/assets/d00f15e8-cc1a-47a6-b99f-885156a55fc3](https://github.com/lw-108/LW_19/blob/main/public/omnitrix.svg)" alt="Logo" width="60" height="60">
   </a>
-  <h1 align="center">lw-108 UI</h1>
+  <h1 align="center">LW_19</h1>
   <p align="center">
    open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
 100% open-source, and customizable.
@@ -23,7 +23,6 @@
 
 <div align="center">
 
- <img width="1425" alt="Portfolio-template" src="https://github.com/user-attachments/assets/265fa13e-98ed-4c99-bd7f-ce7efe19627f">
 
  
 </div>
