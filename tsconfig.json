@@ -20,7 +20,7 @@
     "types": [
       "bun-types"
     ],
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "plugins": [
       {
         "name": "next"
@@ -34,7 +34,8 @@
     "**/*.ts",
     "**/*.tsx",
     "main/types/**/*.ts",
-    "dev/types/**/*.ts"
+    "dev/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"

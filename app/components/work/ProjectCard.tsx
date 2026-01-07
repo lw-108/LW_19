@@ -31,22 +31,27 @@ const ProjectCard = ({
                 height="100%"
                 borderRadius={25}
                 color="rgba(255, 255, 255, 0.1)"
-                blur={false}
+                blur={true}
                 grain={true}
                 top="0px"
                 left="0px"
                 angle={0}
             >
                 <Image
-                    src={image}
-                    alt={name}
-                    width={500}
-                    height={500}
-                    className={`absolute -bottom-2 rounded-3xl rounded-b-none w-[70%] sm:w-[85%] md:w-[60%] lg:max-w-[55%] ${
-                        id % 2 === 0 ? "right-0" : "left-0"
-                    }`}
-                    priority={true}
-                />
+    src={image}
+    alt={name}
+    width={600}
+    height={600}
+    priority
+    className={`absolute -bottom-2 mx-auto mb-2 w-[90%] left-1/2 -translate-x-1/2
+        sm:w-[85%]
+        md:mb-2 md:translate-x-0 md:left-auto md:mx-0
+        md:w-[80%]
+        lg:max-w-[57%]
+        ${id % 2 === 0 ? "md:right-0" : "md:left-0"}
+    `}
+/>
+
                 <div
                     className={`absolute top-0 text-[#0E1016] ${
                         id % 2 === 0 ? "left-0 ml-8 lg:ml-14" : "right-0 mr-8 lg:mr-14"
