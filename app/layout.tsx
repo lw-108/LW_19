@@ -12,7 +12,7 @@ const syne = Inter({
 export const metadata: Metadata = {
     metadataBase: new URL("https://www.example.com/"),
     title: {
-        default: "LW_19",
+        default: "LW19",
         template: "%s | LW-108",
     },
     description:
