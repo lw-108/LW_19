@@ -2,7 +2,7 @@
   <a href="https://github.com/lw-108/">
 
 
- <img src="[https://i.ibb.co/BVby8LSY/image-1.png]" alt="Logo" width="60" height="60">
+<img src="https://i.ibb.co/BVby8LSY/image-1.png" alt="Logo" width="60" height="60">
   </a>
   <h1 align="center">LW_19</h1>
   <p align="center">
