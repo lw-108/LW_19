@@ -30,7 +30,7 @@ export const projects = [
         id: 0,
         name: "U Fill Academy",
         description:
-            "Developed the official website for U-Fill Academy, a summer education initiative dedicated to empowering underprivileged and tribal children through hands-on learning in Artificial Intelligence and Robotics, translating their social mission into a clear, engaging, and accessible digital presence.",
+            "Developed the official website for U-Fill Academy. ",
         technologies: [SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiFramer],
         techNames: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Framer Motion"],
         techLinks: ["https://www.typescriptlang.org/", "https://reactjs.org/", "https://nextjs.org/", "https://tailwindcss.com/", "https://www.framer.com/motion/"],
