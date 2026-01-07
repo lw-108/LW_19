@@ -5,10 +5,7 @@
 <img src="https://i.ibb.co/BVby8LSY/image-1.png" alt="Logo" width="60" height="60">
   </a>
   <h1 align="center">LW_19</h1>
-  <p align="center">
-   open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
-100% open-source, and customizable.
-  </p>
+ 
   <p>
     
    <a href="https://www.lw-108.site/">Visit site</a>
